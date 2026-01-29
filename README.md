@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sonam Devi</h1>
 <h3 align="center">A passionate ANALYST ASPIRANT from IIT Mandi.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sonam-devi" alt="sonam-devi" /></a> </p>
 
 - 🌱 I’m currently learning **product analytics.**
 
